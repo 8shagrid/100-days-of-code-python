@@ -4,3 +4,5 @@
 ### Day 1 - Working with Variables in Python to Manage Data
 * [Band Name Generator](day01/.)
 
+### Day 2 - Understanding Data Types and How to Manipulate Strings
+* [Tip Calculator](day02/.)
