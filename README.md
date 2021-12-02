@@ -12,3 +12,6 @@
 
 ### Day 4 - Randomisation and Python Lists
 * [Rock Paper Scissors](day04/.)
+
+### Day 5 - Python Loops
+* [Password Generator](day05/.)
