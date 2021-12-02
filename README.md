@@ -15,3 +15,6 @@
 
 ### Day 5 - Python Loops
 * [Password Generator](day05/.)
+
+### Day 6 - Python Functions & Karel
+* [Reeborg's World: Hurdle 1](day06/hurdle1)
