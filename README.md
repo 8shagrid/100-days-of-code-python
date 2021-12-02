@@ -9,3 +9,6 @@
 
 ### Day 3 - Control Flow and Logical Operators
 * [Treasure Island](day03/.)
+
+### Day 4 - Randomisation and Python Lists
+* [Rock Paper Scissors](day04/.)
