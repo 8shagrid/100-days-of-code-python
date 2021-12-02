@@ -14,7 +14,7 @@
 * [Rock Paper Scissors](day04/main.py)
 
 ### Day 5 - Python Loops
-* [Password Generator](day05/.)
+* [Password Generator](day05/main.py)
 
 ### Day 6 - Python Functions & Karel
 * [Reeborg's World: Hurdle 1](day06/hurdle1.txt)
