@@ -5,8 +5,8 @@ symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 
 print("Password Generator")
 nr_letters = int(input("Berapa banyak huruf yang Kamu inginkan?\n> ")) 
-nr_symbols = int(input(f"Berapa banyak simbol yang Kamu inginkan?\n> "))
-nr_numbers = int(input(f"Berapa banyak angka yang Kamu inginkan?\n> "))
+nr_symbols = int(input("Berapa banyak simbol yang Kamu inginkan?\n> "))
+nr_numbers = int(input("Berapa banyak angka yang Kamu inginkan?\n> "))
 
 # Eazy Level
 # password = ""
