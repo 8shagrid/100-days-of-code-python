@@ -1,0 +1,3 @@
+word_list = [
+"Apel","Aprikot","Alpukat","Pisang","Blackberry","Blackcurrant","Blueberry","Cherry","Kelapa","Mentimun","Buah Naga","Durian","Kismis","Anggur","Jambu","Nangka","Kiwi","Lemon","Lime","Leci","Mangga","Manggis","Melon","Blewah","Semangka","Jeruk","Pepaya","Markisa","Persik","Pir","Kesemek","Plum","Nanas","Delima","Manggis","Quini","Raspberry","Salmonberry","Rambutan","Redcurrant","Salak","Sirsak","Starfruit","Strawberry"
+]
