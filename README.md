@@ -17,4 +17,8 @@
 * [Password Generator](day05/.)
 
 ### Day 6 - Python Functions & Karel
-* [Reeborg's World: Hurdle 1](day06/hurdle1)
+* [Reeborg's World: Hurdle 1](day06/hurdle1.txt)
+* [Reeborg's World: Hurdle 2](day06/hurdle2.txt)
+* [Reeborg's World: Hurdle 3](day06/hurdle3.txt)
+* [Reeborg's World: Hurdle 4](day06/hurdle4.txt)
+* [Reeborg's World: Maze](day06/maze.txt)
