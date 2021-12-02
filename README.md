@@ -22,3 +22,6 @@
 * [Reeborg's World: Hurdle 3](day06/hurdle3.txt)
 * [Reeborg's World: Hurdle 4](day06/hurdle4.txt)
 * [Reeborg's World: Maze](day06/maze.txt)
+
+### Day 7 - Hangman
+* [Hangman](day07/.)
