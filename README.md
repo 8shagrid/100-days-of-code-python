@@ -25,3 +25,6 @@
 
 ### Day 7 - Hangman
 * [Hangman](day07/.)
+
+### Day 8 - Function Parameters & Caesar Cipher
+* [Caesar Cipher](day08/.)
