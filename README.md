@@ -31,3 +31,6 @@
 
 ### Day 9 - Dictionaries, Nesting and the Secret Auction
 * [Secret Auction](day09/.)
+
+### Day 10 - Functions with Outputs
+* [Calculator](day10/.)
