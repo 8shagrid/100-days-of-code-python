@@ -28,3 +28,6 @@
 
 ### Day 8 - Function Parameters & Caesar Cipher
 * [Caesar Cipher](day08/.)
+
+### Day 9 - Dictionaries, Nesting and the Secret Auction
+* [Secret Auction](day09/.)
