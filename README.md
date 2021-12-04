@@ -37,3 +37,6 @@
 
 ### Day 11 - The Blackjack Capstone Project
 * [Blackjack](day11/.)
+
+### Day 12 - Scope & Number Guessing Game
+* [Guess the Number](day12/.)
