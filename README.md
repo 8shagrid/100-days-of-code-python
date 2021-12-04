@@ -34,3 +34,6 @@
 
 ### Day 10 - Functions with Outputs
 * [Calculator](day10/.)
+
+### Day 11 - The Blackjack Capstone Project
+* [Blackjack](day11/.)
