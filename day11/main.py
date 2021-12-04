@@ -54,7 +54,7 @@ def play_game():
     if user_score == 0 or computer_score == 0 or user_score > 21:
       is_game_over = True
     else:
-      user_should_deal = input("\nType [Y]es to get another card, type [N]o to pass:\n> ")
+      user_should_deal = input("\nType [Y]es to get another card, type [N]o to pass:\n> ").lower()
       if user_should_deal == "y":
         user_cards.append(deal_card())
       else:
@@ -68,6 +68,6 @@ def play_game():
   print(f"- Computer's final hand: {computer_cards}, final score: {computer_score}")
   print(compare(user_score, computer_score))
 
-while input("\nPlay Game: [Y]es or [N]o\n> ") == "y":
+while input("\nPlay Game: [Y]es or [N]o\n> ").lower() == "y":
   os.system('cls')
   play_game()
