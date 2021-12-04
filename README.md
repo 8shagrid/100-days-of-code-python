@@ -40,3 +40,6 @@
 
 ### Day 12 - Scope & Number Guessing Game
 * [Guess the Number](day12/.)
+
+### Day 13 - Debugging: How to Find and Fix Errors in your Code
+* [Debugging](day13/.)
