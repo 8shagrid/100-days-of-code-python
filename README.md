@@ -46,3 +46,7 @@
 
 ### Day 14 - Higher Lower Game Project
 * [Higher Lower Game](day14/.)
+
+### Day 15 - Local Development Environment Setup & the Coffee Machine
+* [Coffee Machine](day15/.)
+
