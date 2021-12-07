@@ -43,3 +43,6 @@
 
 ### Day 13 - Debugging: How to Find and Fix Errors in your Code
 * [Debugging](day13/.)
+
+### Day 14 - Higher Lower Game Project
+* [Higher Lower Game](day14/.)
