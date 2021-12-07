@@ -48,5 +48,5 @@
 * [Higher Lower Game](day14/.)
 
 ### Day 15 - Local Development Environment Setup & the Coffee Machine
-* [Coffee Machine](day15/.)
+* [Coffee Machine](day15/main.py)
 
